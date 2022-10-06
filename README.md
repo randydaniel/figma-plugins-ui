@@ -12,4 +12,5 @@ A collection of Figma plugins
 - [Sitemap](https://www.figma.com/community/plugin/818613147082270958/Sitemap) (Fabien) — Create maps of your site. Crawl links. Recursive & fast.
 
 ## Patterns, Filters
+- [BlendingMe](https://www.figma.com/community/plugin/887243243437608411/BlendingMe) (Anashkin Andrey) — Create a blend for two lines, ellipses or rectangles.
 - [Geometric](https://www.figma.com/community/plugin/816329785694858088/Geometric) (Mathscapes) — Make complex patterns with ease.
