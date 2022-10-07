@@ -1,5 +1,8 @@
-# Figma Plugins & UI Kits
-A collection of Figma plugins
+```
+█▀▀ █ █▀▀ █▀▄▀█ ▄▀█   █▀█ █░░ █░█ █▀▀ █ █▄░█ █▀ ░░▄▀ █░█ █   █▄▀ █ ▀█▀ █▀
+█▀░ █ █▄█ █░▀░█ █▀█   █▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄█ ▄▀░░ █▄█ █   █░█ █ ░█░ ▄█
+```
+A collection of Figma plugins & UI kits.
 
 ## Animation
 - [Flipbook Animator](https://www.figma.com/community/plugin/823077195186711433/Flipbook-Animator-GIF) (Sonny Lazuardi) — A plugin to animate your Figma designs.
