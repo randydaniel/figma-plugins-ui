@@ -1,4 +1,4 @@
-# Figma Plugins
+# Figma Plugins & UI Kits
 A collection of Figma plugins
 
 ## Animation
@@ -14,3 +14,6 @@ A collection of Figma plugins
 ## Patterns, Filters
 - [BlendingMe](https://www.figma.com/community/plugin/887243243437608411/BlendingMe) (Anashkin Andrey) — Create a blend for two lines, ellipses or rectangles.
 - [Geometric](https://www.figma.com/community/plugin/816329785694858088/Geometric) (Mathscapes) — Make complex patterns with ease.
+
+## UI Kits
+- [70+ Modals & Popups](https://www.figma.com/community/file/1160004185821594377) (Jordan Hughes) — A collection of useful modals and popups to use in your designs.
