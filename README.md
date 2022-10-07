@@ -5,7 +5,7 @@
 A collection of Figma plugins & UI kits.
 
 ## Animation
-- [Flipbook Animator](https://www.figma.com/community/plugin/823077195186711433/Flipbook-Animator-GIF) (Sonny Lazuardi) — A plugin to animate your Figma designs.
+- [Flipbook Animator](https://www.figma.com/community/plugin/823077195186711433/Flipbook-Animator-GIF) (Sonny Lazuardi) — A plugin to animate your Figma designs. ![Pro upgrade available]/media/pro.svg "Pro upgrade available")
 
 ## Color & Typography
 - [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) (Jan Six) — Change values of multiple (text and color) styles at once.
