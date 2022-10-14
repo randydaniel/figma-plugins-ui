@@ -23,4 +23,4 @@ A collection of Figma plugins & UI kits.
 - [70+ Modals & Popups](https://www.figma.com/community/file/1160004185821594377) (Jordan Hughes) — A collection of useful modals and popups to use in your designs.
 
 ## Workflow
--[Figma Autoname](https://www.figma.com/community/plugin/1160642826057169962) (Hugo Duprez) — Rename all your layers in one click. Thanks to AI.
+- [Figma Autoname](https://www.figma.com/community/plugin/1160642826057169962) (Hugo Duprez) — Rename all your layers in one click. Thanks to AI.
