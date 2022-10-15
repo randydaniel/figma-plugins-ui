@@ -24,3 +24,4 @@ A collection of Figma plugins & UI kits.
 
 ## Workflow
 - [Figma Autoname](https://www.figma.com/community/plugin/1160642826057169962) (Hugo Duprez) — Rename all your layers in one click. Thanks to AI.
+- [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) (divRIOTS) — Convert any website into fully editable Figma designs. Leverage an existing website and import its html to Figma to start your own designs, without building each element from scratch.
