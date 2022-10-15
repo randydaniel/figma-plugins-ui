@@ -23,5 +23,6 @@ A collection of Figma plugins & UI kits.
 - [70+ Modals & Popups](https://www.figma.com/community/file/1160004185821594377) (Jordan Hughes) — A collection of useful modals and popups to use in your designs.
 
 ## Workflow
+- [DONE](https://www.figma.com/community/widget/1158809166636728308/DONE!) (Brian, Chloe, Eric) — Mark any task ‘To Do’, ‘Doing’, or ‘Done’, right on your canvas.
 - [Figma Autoname](https://www.figma.com/community/plugin/1160642826057169962) (Hugo Duprez) — Rename all your layers in one click. Thanks to AI.
 - [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) (divRIOTS) — Convert any website into fully editable Figma designs. Leverage an existing website and import its html to Figma to start your own designs, without building each element from scratch.
