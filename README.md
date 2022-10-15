@@ -2,7 +2,7 @@
 █▀▀ █ █▀▀ █▀▄▀█ ▄▀█   █▀█ █░░ █░█ █▀▀ █ █▄░█ █▀ ░░▄▀ █░█ █   █▄▀ █ ▀█▀ █▀
 █▀░ █ █▄█ █░▀░█ █▀█   █▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄█ ▄▀░░ █▄█ █   █░█ █ ░█░ ▄█
 ```
-A collection of Figma plugins & UI kits.
+A curated collection of Figma-related plugins & ui kits.
 
 - [Animation](#animation)
 - [Color and Typography](#color-and-typography)
