@@ -13,7 +13,7 @@ A curated collection of Figma-related plugins & ui kits.
 
 ---------------------------------------
 
-<a href="https://www.buymeacoffee.com/romeomikedelta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/randydigital" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Animation
 - [Aninix](https://www.figma.com/community/plugin/988173868842375596/Aninix-%C2%B7-UI-animation) (Aninix, Kira Laktionov, Tony Pinkevych) — Сreate motion design systems, export animations for promos, and provide animation specs for developers all within Figma. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
