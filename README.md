@@ -38,7 +38,3 @@ A collection of Figma plugins & UI kits.
 - [DONE!](https://www.figma.com/community/widget/1158809166636728308/DONE!) (Brian, Chloe, Eric) — Mark any task ‘To Do’, ‘Doing’, or ‘Done’, right on your canvas.
 - [Figma Autoname](https://www.figma.com/community/plugin/1160642826057169962) (Hugo Duprez) — Rename all your layers in one click. Thanks to AI.
 - [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) (divRIOTS) — Convert any website into fully editable Figma designs. Leverage an existing website and import its html to Figma to start your own designs, without building each element from scratch.
-
----------------------------------------
-
-<a href="https://www.buymeacoffee.com/romeomikedelta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
