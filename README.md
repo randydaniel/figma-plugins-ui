@@ -33,7 +33,7 @@ A curated collection of Figma-related plugins & ui kits.
 - [Ghost](https://www.figma.com/community/plugin/1017135840453013129/Ghost) (Christopher Kark) — Converts high fidelity mockups to loading or "skeleton" screens.
 
 ## Style Guide
-- [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) (Abdul Wahid, Esther Cheran, Jan Six) — define & use tokens directly in Figma, including smart aliases for colors, typography, spacing, border radii, etc.
+- [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) (Abdul Wahid, Esther Cheran, Jan Six) — define & use tokens directly in Figma, including smart aliases for colors, typography, spacing, border radii, etc. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
 
 ## UI Kits
 - [70+ Modals & Popups](https://www.figma.com/community/file/1160004185821594377) (Jordan Hughes) — A collection of useful modals and popups to use in your designs.
