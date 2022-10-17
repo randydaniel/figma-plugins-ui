@@ -8,6 +8,7 @@ A curated collection of Figma-related plugins & ui kits.
 - [Color and Typography](#color-and-typography)
 - [Information Architecture](#information-architecture)
 - [Patterns and Filters](#patterns-and-filters)
+- [Style Guide](#style-guide)
 - [UI Kits](#ui-kits)
 - [Workflow](#workflow)
 
@@ -30,6 +31,9 @@ A curated collection of Figma-related plugins & ui kits.
 - [BlendingMe](https://www.figma.com/community/plugin/887243243437608411/BlendingMe) (Anashkin Andrey) — Create a blend for two lines, ellipses or rectangles.
 - [Geometric](https://www.figma.com/community/plugin/816329785694858088/Geometric) (Mathscapes) — Make complex patterns with ease.
 - [Ghost](https://www.figma.com/community/plugin/1017135840453013129/Ghost) (Christopher Kark) — Converts high fidelity mockups to loading or "skeleton" screens.
+
+## Style Guide
+- [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) (Abdul Wahid, Esther Cheran, Jan Six) — define & use tokens directly in Figma, including smart aliases for colors, typography, spacing, border radii, etc.
 
 ## UI Kits
 - [70+ Modals & Popups](https://www.figma.com/community/file/1160004185821594377) (Jordan Hughes) — A collection of useful modals and popups to use in your designs.
