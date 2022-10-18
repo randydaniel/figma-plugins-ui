@@ -23,6 +23,7 @@ A curated collection of Figma-related plugins & ui kits.
 ## Color and Typography
 - [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) (Jan Six) — Change values of multiple (text and color) styles at once.
 - [Find & Replace Colors](https://www.figma.com/community/plugin/806266638862897503/Find-and-Replace-Colors) (Wei Zhong) — Quick & easy solution for finding all colors and replacing them as you need.
+- [Supa Palette](https://www.figma.com/community/plugin/1103648664059257410/Supa-Palette) (Angelo Libero) — Easily create harmonious, accessible-first color palettes. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
 
 ## Information Architecture
 - [Sitemap](https://www.figma.com/community/plugin/818613147082270958/Sitemap) (Fabien) — Create maps of your site. Crawl links. Recursive & fast.
