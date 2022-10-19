@@ -4,7 +4,7 @@
 ```
 A curated collection of Figma-related plugins & ui kits.
 
-- [Animation](#animation)
+- [Animation and Illustration](#animation-and-illustration)
 - [Color and Typography](#color-and-typography)
 - [Information Architecture](#information-architecture)
 - [Patterns and Filters](#patterns-and-filters)
@@ -16,9 +16,10 @@ A curated collection of Figma-related plugins & ui kits.
 
 <a href="https://www.buymeacoffee.com/randydigital" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-## Animation
+## Animation and Illustration
 - [Aninix](https://www.figma.com/community/plugin/988173868842375596/Aninix-%C2%B7-UI-animation) (Aninix, Kira Laktionov, Tony Pinkevych) — Сreate motion design systems, export animations for promos, and provide animation specs for developers all within Figma. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
 - [Flipbook Animator](https://www.figma.com/community/plugin/823077195186711433/Flipbook-Animator-GIF) (Sonny Lazuardi) — A plugin to animate your Figma designs. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
+- [Procreate Import](https://www.figma.com/community/plugin/990407184454470770/Procreate-Import) (Rogie King) — https://www.figma.com/community/plugin/990407184454470770/Procreate-Import
 
 ## Color and Typography
 - [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) (Jan Six) — Change values of multiple (text and color) styles at once.
