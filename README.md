@@ -42,5 +42,6 @@ A curated collection of Figma-related plugins & ui kits.
 ## Workflow
 - [Checklist](https://www.figma.com/community/widget/1151240412068749314) (Aleksei Sushkov) — Widget to create checklist for any occasion.
 - [DONE!](https://www.figma.com/community/widget/1158809166636728308/DONE!) (Brian, Chloe, Eric) — Mark any task ‘To Do’, ‘Doing’, or ‘Done’, right on your canvas.
+- [Downsize](https://www.figma.com/community/plugin/869495400795251845/Downsize) (Alex Einarsson) — Compress and resize images without leaving Figma or FigJam!
 - [Figma Autoname](https://www.figma.com/community/plugin/1160642826057169962) (Hugo Duprez) — Rename all your layers in one click. Thanks to AI.
 - [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) (divRIOTS) — Convert any website into fully editable Figma designs. Leverage an existing website and import its html to Figma to start your own designs, without building each element from scratch.
