@@ -47,3 +47,7 @@ A curated collection of Figma-related plugins & ui kits.
 - [Downsize](https://www.figma.com/community/plugin/869495400795251845/Downsize) (Alex Einarsson) — Compress and resize images without leaving Figma or FigJam!
 - [Figma Autoname](https://www.figma.com/community/plugin/1160642826057169962) (Hugo Duprez) — Rename all your layers in one click. Thanks to AI.
 - [html.to.design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) (divRIOTS) — Convert any website into fully editable Figma designs. Leverage an existing website and import its html to Figma to start your own designs, without building each element from scratch.
+
+---------------------------------------
+
+Maintained by [@randydigital_](https://twitter.com/randydigital_).
