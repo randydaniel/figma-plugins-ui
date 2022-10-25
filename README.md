@@ -6,9 +6,9 @@ A curated collection of Figma-related plugins & ui kits.
 
 - [Animation and Illustration](#animation-and-illustration)
 - [Color and Typography](#color-and-typography)
+- [Design System](#design-system)
 - [Information Architecture](#information-architecture)
 - [Patterns and Filters](#patterns-and-filters)
-- [Style Guide](#style-guide)
 - [UI Kits](#ui-kits)
 - [Workflow](#workflow)
 
@@ -26,6 +26,10 @@ A curated collection of Figma-related plugins & ui kits.
 - [Find & Replace Colors](https://www.figma.com/community/plugin/806266638862897503/Find-and-Replace-Colors) (Wei Zhong) — Quick & easy solution for finding all colors and replacing them as you need.
 - [Supa Palette](https://www.figma.com/community/plugin/1103648664059257410/Supa-Palette) (Angelo Libero) — Easily create harmonious, accessible-first color palettes. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
 
+## Design System
+- [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) (Abdul Wahid, Esther Cheran, Jan Six) — define & use tokens directly in Figma, including smart aliases for colors, typography, spacing, border radii, etc. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
+- [Permute](https://www.figma.com/community/plugin/1077307432716586745/Permute) (Milan Maheshwari) — Create multiple, customised variations using components or color palettes. As easy as one click!
+
 ## Information Architecture
 - [Sitemap](https://www.figma.com/community/plugin/818613147082270958/Sitemap) (Fabien) — Create maps of your site. Crawl links. Recursive & fast.
 
@@ -33,9 +37,6 @@ A curated collection of Figma-related plugins & ui kits.
 - [BlendingMe](https://www.figma.com/community/plugin/887243243437608411/BlendingMe) (Anashkin Andrey) — Create a blend for two lines, ellipses or rectangles.
 - [Geometric](https://www.figma.com/community/plugin/816329785694858088/Geometric) (Mathscapes) — Make complex patterns with ease.
 - [Ghost](https://www.figma.com/community/plugin/1017135840453013129/Ghost) (Christopher Kark) — Converts high fidelity mockups to loading or "skeleton" screens.
-
-## Style Guide
-- [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) (Abdul Wahid, Esther Cheran, Jan Six) — define & use tokens directly in Figma, including smart aliases for colors, typography, spacing, border radii, etc. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
 
 ## UI Kits
 - [70+ Modals & Popups](https://www.figma.com/community/file/1160004185821594377) (Jordan Hughes) — A collection of useful modals and popups to use in your designs.
