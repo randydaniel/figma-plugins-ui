@@ -7,6 +7,7 @@ A curated collection of Figma-related plugins & ui kits.
 - [Animation and Illustration](#animation-and-illustration)
 - [Color and Typography](#color-and-typography)
 - [Design System](#design-system)
+- [Icons](#icons)
 - [Information Architecture](#information-architecture)
 - [Patterns and Filters](#patterns-and-filters)
 - [UI Kits](#ui-kits)
@@ -27,6 +28,9 @@ A curated collection of Figma-related plugins & ui kits.
 ## Design System
 - [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) (Abdul Wahid, Esther Cheran, Jan Six) — define & use tokens directly in Figma, including smart aliases for colors, typography, spacing, border radii, etc. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
 - [Permute](https://www.figma.com/community/plugin/1077307432716586745/Permute) (Milan Maheshwari) — Create multiple, customised variations using components or color palettes. As easy as one click!
+
+## Icons
+- [Simple Brand Icons](https://www.figma.com/community/plugin/1149932661830725481/Simple-Brand-Icons-by-Iconduck) (Iconduck) — 1,461 open source brand logos (also known as brand icons) from Simple Brands.
 
 ## Information Architecture
 - [Sitemap](https://www.figma.com/community/plugin/818613147082270958/Sitemap) (Fabien) — Create maps of your site. Crawl links. Recursive & fast.
