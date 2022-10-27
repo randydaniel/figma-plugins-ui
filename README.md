@@ -42,6 +42,7 @@ A curated collection of Figma-related plugins & ui kits.
 
 ## UI Kits
 - [70+ Modals & Popups](https://www.figma.com/community/file/1160004185821594377) (Jordan Hughes) — A collection of useful modals and popups to use in your designs.
+- [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) (Hexorial Studio, Deep, Manthankumar Satani) — Extensive library of predefined wireframe components, user flows, and more.
 
 ## Workflow
 - [Checklist](https://www.figma.com/community/widget/1151240412068749314) (Aleksei Sushkov) — Widget to create checklist for any occasion.
