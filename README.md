@@ -25,6 +25,7 @@ A curated collection of Figma-related plugins & ui kits.
 - [Find & Replace Colors](https://www.figma.com/community/plugin/806266638862897503/Find-and-Replace-Colors) (Wei Zhong) — Quick & easy solution for finding all colors and replacing them as you need.
 - [Image Palette](https://www.figma.com/community/plugin/731841207668879837/Image-Palette) (Matt DesLauriers) — Extracts a colour palette of 5 different colours from the selected images.
 - [Supa Palette](https://www.figma.com/community/plugin/1103648664059257410/Supa-Palette) (Angelo Libero) — Easily create harmonious, accessible-first color palettes. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
+- [Tints and Shades](https://www.figma.com/community/plugin/943569346291474506/Tints-and-Shades) (Anuoluwapo Victor Sebiomo, Daniel Abayomi, Seyi Oluwadare) — Generate lighter and darker variations of any color. Perfect for states or to add to your design system.
 
 ## Design System
 - [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) (Abdul Wahid, Esther Cheran, Jan Six) — define & use tokens directly in Figma, including smart aliases for colors, typography, spacing, border radii, etc. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
