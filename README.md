@@ -18,7 +18,7 @@ A curated collection of Figma-related plugins & ui kits.
 ## Animation and Illustration
 - [Aninix](https://www.figma.com/community/plugin/988173868842375596/Aninix-%C2%B7-UI-animation) (Aninix, Kira Laktionov, Tony Pinkevych) — Сreate motion design systems, export animations for promos, and provide animation specs for developers all within Figma. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
 - [Flipbook Animator](https://www.figma.com/community/plugin/823077195186711433/Flipbook-Animator-GIF) (Sonny Lazuardi) — A plugin to animate your Figma designs. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
-- [Physics animation](https://www.figma.com/community/plugin/1051790240828992953/Physics-animation) (Denis, Vladislav, Алексей Шведюк) — Makes your 2D composition layer interact with each other.
+- [Physics animation](https://www.figma.com/community/plugin/1051790240828992953/Physics-animation) (Denis, Vladislav, Алексей Шведюк) — Makes your 2D composition layer interact with each other. ![Pro upgrade available](https://randydaniel.github.io/figma-plugins-ui/media/pro.svg "Pro upgrade available")
 - [Procreate Import](https://www.figma.com/community/plugin/990407184454470770/Procreate-Import) (Rogie King) — Import your .procreate files into Figma, complete with named layers, groups, blend modes, and clipping masks.
 
 ## Color and Typography
