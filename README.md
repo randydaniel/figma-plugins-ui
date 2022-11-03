@@ -49,6 +49,7 @@ A curated collection of Figma-related plugins & ui kits.
 - [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) (Hexorial Studio, Deep, Manthankumar Satani) — Extensive library of predefined wireframe components, user flows, and more.
 
 ## Workflow
+- [Aspects](https://www.figma.com/community/plugin/739222456238688882/Aspects) (Cosmin Negoita) — Resize selected elements to fit a certain aspect ratio.
 - [Checklist](https://www.figma.com/community/widget/1151240412068749314) (Aleksei Sushkov) — Widget to create checklist for any occasion.
 - [DONE!](https://www.figma.com/community/widget/1158809166636728308/DONE!) (Brian, Chloe, Eric) — Mark any task ‘To Do’, ‘Doing’, or ‘Done’, right on your canvas.
 - [Downsize](https://www.figma.com/community/plugin/869495400795251845/Downsize) (Alex Einarsson) — Compress and resize images without leaving Figma or FigJam!
